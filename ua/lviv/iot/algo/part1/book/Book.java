@@ -1,3 +1,4 @@
+//laba1
 package src.ua.lviv.iot.algo.part1.book;
 
 @Getter
